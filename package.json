@@ -1,0 +1,22 @@
+{
+  "name": "hex-btn-abdulxoliq",
+  "version": "1.0.0",
+  "description": "hex color",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abdulxoliq-1030/hex-btn-abdulxoliq.git"
+  },
+  "keywords": [
+    "abdulxoliq"
+  ],
+  "author": "Abdulxoliq Odiljonov",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Abdulxoliq-1030/hex-btn-abdulxoliq/issues"
+  },
+  "homepage": "https://github.com/Abdulxoliq-1030/hex-btn-abdulxoliq#readme"
+}
